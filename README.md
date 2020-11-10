@@ -24,3 +24,4 @@ Awesome Healthcare Interoperability
 https://fhirblog.com/2019/05/09/converting-v2-to-fhir/
 
 ## Articles
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6702215/
