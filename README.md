@@ -1,7 +1,7 @@
 # awesome-healthcare-interoperability
 Awesome Healthcare Interoperability
 
-## Vendors
+## Health system connectivity
 * [1upHealth](https://1up.health/) - Connect with electronic health records in minutes.
 * [Intersystems Health Connect](https://www.intersystems.com/products/healthshare/health-connect/) - Integration engine that delivers high-volume transaction support, process management, and monitoring to support mission critical applications.
 * [Mirth Connect](https://www.mirth.com) - Seamless, Scalable, and Supported Interoperability with NextGen Connect Integration Engine
@@ -9,6 +9,12 @@ Awesome Healthcare Interoperability
 * [X-tention](https://x-tention.com/en) - INDIVIDUAL COMPLETE IT SOLUTIONS for healthcare, social care and industry
 * [Cloverleaf](https://www.infor.com/products/cloverleaf) - Connecting healthcare organizations and streamlining interoperability to improve outcomes and operations
 * [MphRx](https://www.mphrx.com/index.php/solutions-for-healthcare-providers/healthcare-interoperability/) - Minerva drives an open-standards-based, patient-centric approach to interoperability
+
+## Terminology servers
+* [Snowstorm](https://github.com/IHTSDO/snowstorm) - Snowstorm is a SNOMED CT terminology server built on top of Elasticsearch, with a focus on performance and enterprise scalability.
+* [Snow-owl](https://github.com/b2ihealthcare/snow-owl) - Snow Owl® is a highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
+* [Ontoserver](https://ontoserver.csiro.au/) - Next Gen FHIR Terminology Server
+* 
 
 ## Specifications
 * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
