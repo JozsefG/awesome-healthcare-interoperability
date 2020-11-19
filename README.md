@@ -14,7 +14,6 @@ Awesome Healthcare Interoperability
 * [Snowstorm](https://github.com/IHTSDO/snowstorm) - Snowstorm is a SNOMED CT terminology server built on top of Elasticsearch, with a focus on performance and enterprise scalability.
 * [Snow-owl](https://github.com/b2ihealthcare/snow-owl) - Snow Owl® is a highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
 * [Ontoserver](https://ontoserver.csiro.au/) - Next Gen FHIR Terminology Server
-* 
 
 ## Specifications
 * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
