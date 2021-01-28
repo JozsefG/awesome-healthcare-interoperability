@@ -9,6 +9,7 @@ Awesome Healthcare Interoperability
 * [X-tention](https://x-tention.com/en) - INDIVIDUAL COMPLETE IT SOLUTIONS for healthcare, social care and industry
 * [Cloverleaf](https://www.infor.com/products/cloverleaf) - Connecting healthcare organizations and streamlining interoperability to improve outcomes and operations
 * [MphRx](https://www.mphrx.com/index.php/solutions-for-healthcare-providers/healthcare-interoperability/) - Minerva drives an open-standards-based, patient-centric approach to interoperability
+* [Datica](https://datica.com/) - Datica takes on EHR integration and cloud compliance so you can focus on your most important work
 
 ## Terminology servers
 * [Snowstorm](https://github.com/IHTSDO/snowstorm) - Snowstorm is a SNOMED CT terminology server built on top of Elasticsearch, with a focus on performance and enterprise scalability.
