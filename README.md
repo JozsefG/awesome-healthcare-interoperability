@@ -22,10 +22,14 @@ Awesome Healthcare Interoperability
 * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).  
 * [CDA and CCDA](https://www.hl7.org/documentcenter/public/calendarofevents/himss/2016/Introduction%20to%20Clinical%20Document%20Architecture%20(CDA)%20and%20Consolidated%20CDA%20(C-CDA).pdf) - Clinical Document Architecture and Consolidated Document Architecture
 ## Mapping
-* [HL7 V2 to FHIR](https://confluence.hl7.org/display/OO/Data+Type+Mapping) 
+* HL7 V2 to FHIR
+    * https://confluence.hl7.org/display/OO/Data+Type+Mapping
+    * http://build.fhir.org/ig/HL7/v2-to-fhir/mapping_guidelines.htm  
 
 ## Tools
 * [FHIR-Converter](https://github.com/microsoft/FHIR-Converter) - Open source project that enables the conversion of health data from legacy format to FHIR. Currently it supports HL7v2, and CCDA, to FHIR conversion.
+* [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization/) - Engine that converts data of one structure to another
+* [hapi-hl7v2](https://github.com/hapifhir/hapi-hl7v2) - HAPI is an open-source, object-oriented HL7 2.x parser for Java
 
 ## Guides
 https://fhirblog.com/2019/05/09/converting-v2-to-fhir/
