@@ -12,6 +12,8 @@ Awesome Healthcare Interoperability
 * [Datica](https://datica.com/) - Datica takes on EHR integration and cloud compliance so you can focus on your most important work
 * [Redox](https://www.redoxengine.com/) - Redox is the platform for connecting healthcare products to provider EHRs
 * [Iguana](https://www.interfaceware.com/iguana) - The Iguana integration engine delivers a rapid, reliable, and scalable solution for the comprehensive acquisition and exchange of healthcare information.
+* [Corepoint and Rhapsody](https://www.lyniate.com/) - Corepoint offers a simplified approach to interoperability for hospitals, radiology centers, laboratories, and clinics. Rhapsody makes basic integration simple and complex interoperability possible
+
 
 
 ## Terminology servers
