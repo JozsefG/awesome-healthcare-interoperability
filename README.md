@@ -11,6 +11,8 @@ Awesome Healthcare Interoperability
 * [MphRx](https://www.mphrx.com/index.php/solutions-for-healthcare-providers/healthcare-interoperability/) - Minerva drives an open-standards-based, patient-centric approach to interoperability
 * [Datica](https://datica.com/) - Datica takes on EHR integration and cloud compliance so you can focus on your most important work
 * [Redox](https://www.redoxengine.com/) - Redox is the platform for connecting healthcare products to provider EHRs
+* [Iguana](https://www.interfaceware.com/iguana) - The Iguana integration engine delivers a rapid, reliable, and scalable solution for the comprehensive acquisition and exchange of healthcare information.
+
 
 ## Terminology servers
 * [Snowstorm](https://github.com/IHTSDO/snowstorm) - Snowstorm is a SNOMED CT terminology server built on top of Elasticsearch, with a focus on performance and enterprise scalability.
