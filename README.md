@@ -7,7 +7,7 @@ Awesome Healthcare Interoperability
 * [Mirth Connect](https://www.mirth.com) - Seamless, Scalable, and Supported Interoperability with NextGen Connect Integration Engine
 * [OpenHIM](http://openhim.org/) - Middleware component designed to ease interoperability between disparate information systems.
 * [X-tention](https://x-tention.com/en) - INDIVIDUAL COMPLETE IT SOLUTIONS for healthcare, social care and industry
-* [Cloverleaf](https://www.infor.com/products/cloverleaf) - Connecting healthcare organizations and streamlining interoperability to improve outcomes and operations
+* [Infor Cloverleaf](https://www.infor.com/products/cloverleaf) - Connecting healthcare organizations and streamlining interoperability to improve outcomes and operations
 * [MphRx](https://www.mphrx.com/index.php/solutions-for-healthcare-providers/healthcare-interoperability/) - Minerva drives an open-standards-based, patient-centric approach to interoperability
 * [Datica](https://datica.com/) - Datica takes on EHR integration and cloud compliance so you can focus on your most important work
 * [Redox](https://www.redoxengine.com/) - Redox is the platform for connecting healthcare products to provider EHRs
