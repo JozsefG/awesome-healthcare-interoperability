@@ -36,6 +36,19 @@ Awesome Healthcare Interoperability
 * [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization/) - Engine that converts data of one structure to another
 * [hapi-hl7v2](https://github.com/hapifhir/hapi-hl7v2) - HAPI is an open-source, object-oriented HL7 2.x parser for Java
 
+## FHIR Servers
+* SaaS
+   * [Amazon HealthLake](https://aws.amazon.com/healthlake/) - Amazon HealthLake is a HIPAA-eligible service that provides FHIR APIs that help healthcare and life sciences companies securely store, transform, transact, and analyze health data in minutes to give a chronological view at the patient and population-level.
+   * [Cloud Healthcare API](https://cloud.google.com/healthcare-api/docs/concepts/fhir) - The Cloud Healthcare API provides industry-standard protocols and formats for ingesting, storing, analyzing, and integrating healthcare data with cloud-based applications.
+   * [Azure API for FHIR](https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir/overview) - Azure API for FHIR enables rapid exchange of data through Fast Healthcare Interoperability Resources (FHIR®) APIs, backed by a managed Platform-as-a Service (PaaS) offering in the cloud. It makes it easier for anyone working with health data to ingest, manage, and persist Protected Health Information PHI in the cloud.
+* Open-source
+   * [HAPI FHIR](https://hapifhir.io/)
+   * [LinuxForHealth FHIR® Server](https://github.com/LinuxForHealth/FHIR)
+   * [FHIR Server for Azure](https://github.com/microsoft/fhir-server)  
+* Commercial (standalone)
+   * [SmileCDR](https://www.smiledigitalhealth.com/smilecdr)   
+   * [Firely Server](https://fire.ly/products/firely-server/)   
+
 ## Guides
 https://fhirblog.com/2019/05/09/converting-v2-to-fhir/
 
